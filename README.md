@@ -11,11 +11,11 @@
   <summary style="font-size:20px; font-weight:bold; color:white;">📘 Projects You Might Like</summary>
 
   <p align="left">
-    <a href="https://github.com/ghbishal/next-js-starter-boilerplate">
-      <img align="center" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghbishal&repo=next-js-starter-boilerplate&theme=react&bg_color=1F222E&title_color=f8b600&hide_border=true&icon_color=F8D866&show_icons=false" alt="next-js-starter-boilerplate"/>
+    <a href="https://github.com/ghbishal/nextjs-boilerplate">
+      <img align="center" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghbishal&repo=nextjs-boilerplate&theme=react&bg_color=1F222E&title_color=f8b600&hide_border=true&icon_color=F8D866&show_icons=false" alt="nextjs-production-boilerplate"/>
     </a>
     <a href="https://github.com/ghbishal/authentication-with-next-js-typescript">
-      <img align="center" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghbishal&repo=authentication-with-next-js-typescript&theme=react&bg_color=1F222E&title_color=f8b600&hide_border=true&icon_color=F8D866&show_icons=false" alt="next-js-starter-boilerplate"/>
+      <img align="center" width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ghbishal&repo=authentication-with-next-js-typescript&theme=react&bg_color=1F222E&title_color=f8b600&hide_border=true&icon_color=F8D866&show_icons=false" alt="authentication-with-next-js-typescript"/>
     </a>
   </p>
   <a href="https://github.com/ghbishal?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>

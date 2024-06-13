@@ -5,6 +5,8 @@
   <a href="https://www.linkedin.com/in/bishaal/"><img width="36px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://bishaal.com/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/Bishal_icon.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/tw__bishal"><img width="36px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/x.jpeg"></a>
 </p>
 
 <details open>

@@ -23,6 +23,21 @@
   <a href="https://github.com/ghbishal?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+---
+
+<h3 align="center">💻 Skills</h3>
+
+<p>
+  <b>Programming Languages:</b> TypeScript, JavaScript, Go, Python, Dart, Java <br>
+  <b>Libraries/Frameworks:</b> React, React Native, Flutter, Next.js, Nest.js, Redux <br>
+  <b>Testing Tools:</b> React Testing Library, Playwright, Jest <br>
+  <b>Cloud Platforms:</b> AWS, GCP, Firebase <br>
+  <b>Databases:</b> MongoDB, MySQL <br>
+  <b>Other:</b> Strapi, GraphQL (Apollo), REST APIs
+</p>
+
+---
+
 <h3>💻 GitHub Profile Stats</h3>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -32,6 +47,16 @@
 <h3>🔥 Streak Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ghbishal)](https://git.io/streak-stats)
+
+---
+
+<h3 align="center">📫 How to Reach Me</h3>
+
+- Email: [bishalk2056@gmail.com](mailto:bishalk2056@gmail.com)
+- LinkedIn: [linkedin.com/in/bishaal](https://www.linkedin.com/in/bishaal/)
+- Portfolio(not Updated): [bishaal.com](https://bishaal.com/)
+
+---
 
 <!--
 **ghbishal/ghbishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

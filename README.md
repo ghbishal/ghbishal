@@ -54,7 +54,7 @@
 
 - Email: [bishalk2056@gmail.com](mailto:bishalk2056@gmail.com)
 - LinkedIn: [linkedin.com/in/bishaal](https://www.linkedin.com/in/bishaal/)
-- Portfolio(not Updated): [bishaal.com](https://bishaal.com/)
+- Portfolio(not Updated): [bishal.dev](https://www.bishal.dev/)
 
 ---
 

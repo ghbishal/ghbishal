@@ -2,11 +2,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/bishaal/"><img width="36px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/bishaal/" target="_blank" rel="noopener noreferrer"><img width="36px" alt="LinkedIn" title="LinkedIn" src="./assets/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://bishaal.com/"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/Bishal_icon.png"></a>
+  <a href="https://bishal.dev/" target="_blank" rel="noopener noreferrer"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/Bishal_icon.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/tw__bishal"><img width="36px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/x.jpeg"></a>
+  <a href="https://x.com/tw__bishal" target="_blank" rel="noopener noreferrer"><img width="36px" alt="Dev.to" title="DenverCoder1 Dev.to" src="./assets/x.jpeg"></a>
 </p>
 
 <details open>
